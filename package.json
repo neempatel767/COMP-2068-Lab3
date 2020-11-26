@@ -1,0 +1,17 @@
+{
+  "name": "lab-3-apis-and-nappies",
+  "version": "0.0.1",
+  "description": "lab 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Neem Patel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
